@@ -59,7 +59,8 @@ Step 7: Finalize and Export
 
 # Output
 1. Foundational Concepts of Generative AI
-image
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/41e87da4-c94d-49c7-94db-9f1e7d6b0209" />
+
 Generative AI refers to systems that learn patterns from data and use them to create new content—text, images, music, code, and more. These foundational concepts define how such systems operate. Core Concepts and Their Types:
 
 • Generative Modeling:
@@ -111,7 +112,8 @@ Generative Adversarial Networks (GANs)
 
 Variational Autoencoders (VAEs)
 
-image
+<img width="1002" height="503" alt="image" src="https://github.com/user-attachments/assets/5e2df3f5-fb2e-41ef-ab0c-8602e464d055" />
+
 Transformers
 
 Large Language Models (LLMs) based on transformers have outperformed the earlier Recurrent Neural Networks (RNNs) in various tasks like sentiment analysis, machine translation, text summarization, etc.
@@ -132,7 +134,8 @@ Once done, the transformer uses this knowledge to understand the complete story 
 
 With this understanding, the transformer can even predict which word might come next.
 
-image
+<img width="895" height="443" alt="image" src="https://github.com/user-attachments/assets/c3619382-7edd-4189-9d22-0948f9a29c20" />
+
 3. Applications of Generative AI
 Here are the applications of Generative AI:
 
@@ -152,7 +155,8 @@ Gaming – Level design, NPC dialogue, and interactive storytelling.
 
 Virtual Assistants – Conversational support, scheduling, and domain-specific assistance.
 
-image
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/afa7e13b-d87d-4ee5-8bea-379495b7c689" />
+
 4. Impact of Scaling in Large Language Models (LLMs)
 Scaling LLMs has led to dramatic improvements in performance, but also introduced new challenges.
 
@@ -162,8 +166,8 @@ Key Impacts: • Performance Gains: Larger models generalize better and handle c
 A Large Language Model (LLM) is a deep learning model trained on massive text corpora to understand and generate human-like language.
 
 Architecture Overview:
+<img width="861" height="337" alt="image" src="https://github.com/user-attachments/assets/68f2a389-fccd-42ea-9f0b-ffd9d70fcaae" />
 
-image
 Transformer Types:
 
 Encoder-Only: BERT, RoBERTa (used for classification, embedding).
@@ -179,7 +183,8 @@ Self-Attention: Captures relationships between all tokens.
 Multi-Head Attention: Parallel attention heads for richer context.
 Layer Normalization: Stabilizes training.
 Autoregressive Decoding: Generates text step-by-step.
-image
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/fd9f3c37-041c-4966-af6a-969edb39be69" />
+
 # Result
 Generative AI has evolved from theoretical models to real-world disruptors, reshaping creativity, research, and business operations. Foundationally built on probabilistic modeling, modern advances—especially transformers and diffusion models—have expanded the frontiers of AI capability. Its applications span from creative media to healthcare breakthroughs, while scaling laws have accelerated progress but introduced new societal challenges.
 
